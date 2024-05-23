@@ -1,0 +1,20 @@
+{
+  "appId": "tempest_landing",
+  "viteHost": "http://127.0.0.1",
+  "vitePort": 3003,
+  "frontend": "react",
+  "frontendBasePath": "storm_fe_react",
+  "frontendEntryPoint": "main.tsx",
+  "frontendExtensions": [
+    ".js",
+    ".jsx",
+    ".json",
+    ".ts",
+    ".tsx"
+  ],
+  "codeQualityAddons": [
+    "prettier"
+  ],
+  "frontendAddons": [],
+  "backendAddons": []
+}
